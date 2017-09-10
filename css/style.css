@@ -140,6 +140,10 @@ button {
 }
 
 
+
+/* desktop css to be included here  */
+
+
 /* Adding css for mobile */
 
 
@@ -153,6 +157,7 @@ button {
 //   width: 325px;
 // }
 
+
 // #colorSelect button {
 //   border: none;
 //   border-top: 1px solid #6A845F;
@@ -162,3 +167,4 @@ button {
 //   padding: 5px 10px;
 //   width: 325px;
 // }
+
